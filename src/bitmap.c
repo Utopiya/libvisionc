@@ -272,4 +272,4 @@ void createGrayPalette(char *palette){
  * 2) Insert other image types like BW (1 bits black and white mask) and MASK with its own palette
  * 3) Add error handling to saveBmp
  * 4) Split functions and structures non strictly related to bitmaps on other files.
- *
+ **/
